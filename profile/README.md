@@ -3,7 +3,7 @@
 Ping Reducer is an all-in-one Windows optimizer that helps lower ping and reduce lag by tuning your route, prioritizing games, and monitoring latency live.
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxj3N_0y9TWWJdhjet5LRzT6BB83srrUDttfMB5UWaNw&s" alt="Ping Reducer Logo" width="25%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQegIFc96yZV2jtgEcJNWko8Ydvj-8np5P9083bvmU-ixMX8MQGemF_EuXc&s=10" alt="Ping Reducer Logo" width="25%"/>
 </div>
 
 <div align="center">
